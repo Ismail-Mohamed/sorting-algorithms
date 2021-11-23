@@ -1,2 +1,2 @@
 # Sorting Algorithms
-Bubble sort , Insertion Sort , Quick sort  implementation 
+Bubble sort , Insertion Sort , Quick sort ( ! JAVA implementation)
