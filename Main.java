@@ -116,6 +116,8 @@ class Main extends Helpers {
         long start = System.nanoTime();
         // sorting algorithm to mesure
         BubbleSort.sort(arr);
+        // QuickSort.sort(arr);
+        // InsertionSort.sort(arr);
         // ending time measurement
         long end = System.nanoTime();
         // print array after sort
